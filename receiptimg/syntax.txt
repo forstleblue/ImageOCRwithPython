@@ -1,0 +1,1 @@
+python receipt.py <FILENAME.EXT> <OUTPUT_NAME>
